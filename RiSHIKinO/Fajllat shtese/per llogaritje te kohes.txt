@@ -1,0 +1,4 @@
+$time_pre = microtime(true);  //me perdor te insertimi i te dhenave,,,
+exec(...);
+$time_post = microtime(true);
+$exec_time = $time_post - $time_pre;
