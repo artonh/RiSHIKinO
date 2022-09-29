@@ -1,6 +1,7 @@
 # RiSHIKinO
-Nje web site qe mundeson shikimin, komentimin dhe vleresimin e filmave.
-Faqja përmbanë trailerat e  filmave te fundit ku trailerat përmbajnë nga një përshkrim 
-për secilin film.Gjithashtu është mundësuar edhe vlerësimi i filmave nga ana e përdoruesve 
-si dhe dhënja e komenteve ku secili përdorues ka të drejten e vetem një komenti dhe një vlerësimi 
-për secilin film.
+
+One website with the ability to play movies, comment, and rate them! It’s easy and secure!
+Here we have latest trailer with a short description on each of movies!
+The users have the ability to rate the movies or comment them, with the rule "one tick" per user on these movies!
+
+It involves 1. SQL statements, security, and protection against SQL Injection, 2. Data confidentiality – Salt hash, 3. Two operating modes, admin and user role, and 4. Mailing 
